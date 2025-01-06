@@ -1,11 +1,12 @@
 /**
-* @name Silly Evia
+* @name Lovely Theme :3
 * @author therealdevrose
-* @version 1.0
-* @description An easily customizable and automatically updating theme
+* @version 1.7
+* @invite 2kFJVUzjat
+* @description To customize this theme open the .theme file you downloaded when finding this theme!
 */
 
-@import url(https://puckzxz.github.io/NotAnotherAnimeTheme/build/v3/naat.v3.css);
+@import url(https://raw.githubusercontent.com/SillyEviaStudios/Make-your-own-theme/refs/heads/main/main.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
@@ -17,8 +18,9 @@
 :root {
   /*
     Theme Background
+	Paste the URL of the image you want to display here
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/1305090974392909924/1320535573223702528/IMG_6530.png?ex=677c6917&is=677b1797&hm=991eb1b83d2e7832620635850b5a0f977fbbb4be5c73ec7b0c974c87de841eea&);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/1305090974392909924/1325671828882194432/Dljp2Ki.png?ex=677ca399&is=677b5219&hm=ba8b86dcd4db8dad073cf43711ed62584f5087061a633c6dbcbbb192e6f4c792&);
 
   /*
     Main Theme Color
