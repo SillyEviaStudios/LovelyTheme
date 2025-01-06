@@ -6,7 +6,7 @@
 * @description To customize this theme open the .theme file you downloaded when finding this theme!
 */
 
-@import url(https://raw.githubusercontent.com/SillyEviaStudios/Make-your-own-theme/refs/heads/main/main.css);
+@import url(https://raw.githubusercontent.com/SillyEviaStudios/LovelyTheme/refs/heads/main/main.css);
 
 /*
   To make editing this theme easier I recommend using Notepad++
